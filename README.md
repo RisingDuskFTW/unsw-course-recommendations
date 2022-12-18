@@ -4,7 +4,7 @@ I have been studying Maths and Computer Science at UNSW since 2021, and I want t
 
 ## Core Courses
 
-### COMP1511
+### COMP1511 – Programming Fundamentals
 
 - Term Taken: 21T1
 - Lecturer in Term Taken: Marc Chee
@@ -16,7 +16,7 @@ COMP1511 is the introductory course for computer science at UNSW. No prior codin
 
 Each week consists of two 2-hour lectures and a TLB (tutorial lab) which is a one-hour tutorial followed by a 2-hour lab. The tutorial will go over content taught in the previous week of lectures, and the lab gives you time to work on the weekly lab exercises. The lab exercises are usually pretty straightforward, though some challenge ones are designed to throw off even the strongest coders. Most weeks will also have a weekly test, which consists of three easier exercises focusing on reaffirming content from a couple of weeks beforehand. The two or three assignments allow you to express your understanding of the content in a more involved (and I found, fun) way. Lastly, the final exam (which is probably in person) features some theory and practical questions similar to the weekly tests, but the programming questions often scale in difficulty further into the exam.
 
-### COMP1521
+### COMP1521 – Computer Systems Fundamentals
 
 - Term Taken: 21T2
 - Lecturer in Term Taken: Sri Parameswaran
@@ -28,7 +28,7 @@ COMP1521 is one of the next steps after COMP1511 and is more of an introduction 
 
 The weekly schedule for COMP1521 follows the same lecture + TLB + Weekly Labs and Weekly Quiz as COMP1511. The only real difference is the final exam only has programming questions in it. I would strongly recommend taking this in a term with Andrew Taylor, as I think his lecturing style is a much better experience than Sri's. With this, the assignments usually become 'easy to pass / credit, medium to Distinction, hard to HD' and the exam becomes a little harder. I would also recommend taking this course a bit later than you think. The next two courses both open up a lot more electives, so consider that when choosing when to take this.
 
-### COMP1531
+### COMP1531 – Software Engineering Fundamentals
 
 - Term Taken: 21T3
 - Lecturer in Term Taken: Hayden Smith
@@ -39,3 +39,15 @@ The weekly schedule for COMP1521 follows the same lecture + TLB + Weekly Labs an
 COMP1521 is one of the next steps after COMP1511 and is an introduction to group projects and the software development life cycle. Becoming acclimated to group work is incredibly important for work after uni, so be prepared to put in a decent bit more time here than in COMP1511. When I took it, the coding language was Python, but it has since moved to JavaScript. Hayden is a fantastic lecturer though, so you will be in safe hands.
 
 The weekly schedule for COMP1531 follows the same lecture + TLB + Weekly Labs as COMP1511, minus the weekly tests. The exam is much the same, but without that scaling difficulty for the most part. However, in place of the two assignments, there is a group project for 4-5 students across the whole term. As of 22T3, you are only allowed to preference one person from your TLB class, so there is going to be variance in who your random teammates are. If they happen to be like-minded in their goals? Cool! The term will be a bit easier. But if they don't contribute as much as they should, the project can easily become a huge time sink for you. Keep that in mind with choosing your tutorial time. (A proven strategy has been to occupy over half of the tutorial with friends so you're more likely to get people you can work with.)
+
+### COMP2521 – Data Structures and Algorithms
+
+- Term Taken: 21T3
+- Lecturer in Term Taken: Ashesh Mahidadia
+- Other Lecturers: Others
+- Prerequisite: COMP1511
+- Difficulty: 🟠 Medium - Hard
+
+COMP2521 is one of the next steps after COMP1511 and is probably the most logical follow-up to the introductory course. It is taught using C, and content follows from linked lists at the end of COMP1511 with Abstract Data Types, Recursion, Trees, Graphs, Sorting and various other ADTs. Ashesh is a fine enough lecturer, but I spent most of the term watching Hayden Smith's recordings from 21T2.
+
+The weekly schedule for COMP2521 loosely follows the same lecture + TLB + Weekly Labs and Weekly Quiz as COMP1511, with changes to the assessables. The weekly labs are now longer, and mostly just one or two larger exercises. These require more thinking than the average Level 1 COMP course lab exercise. The weekly quizzes are now theory-based MCQs as opposed to the practical exercises in COMP1511. The exam is much the same, but without that scaling difficulty for the most part. Assignments are often more tedious and time-consuming though. You can't just read the spec and start coding; taking the time to plan out your program and tackle it step by step can help alleviate the difficulty the course brings. Despite the difficulty increase, I do recommend taking this course immediately after COMP1511, since it is the most logical follow-up, and also opens up so many elective options that it's hard to ignore.
