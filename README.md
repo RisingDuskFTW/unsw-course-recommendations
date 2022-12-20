@@ -63,3 +63,24 @@ The weekly schedule for COMP2521 loosely follows the same lecture + TLB + Weekly
 COMP2511 is the next big jump in difficulty after completing the first-year core courses. It is an introduction to object-oriented programming, using Java as its language of choice. The main topics are good design behaviours and some of the various design patterns that object-oriented programming follows. Once again, Ashesh is a fine enough lecturer, but there isn't anyone else that I know who lectures the course.
 
 The weekly schedule for COMP2511 loosely follows the same lecture + TLB + Weekly Labs as first-year COMP courses, with changes to the assessables. The weekly labs are now much longer, and mostly just one or two larger exercises. I often found myself spending 2 or more hours on these labs, which was very different from my first-year experience. There are no weekly quizzes, and the exam is much the same, but without that scaling difficulty for the most part. Assignments are even more tedious and time-consuming than ever, as the assignment specs are often not very detailed, requiring many assumptions to be made (using the help of the forum). While interesting, all 3 of the assignments were a large time sink, especially the second one which was a paired assignment. I would recommend taking this around term 2 or 3 of your second year because it is such a large difficulty increase compared to the first-year courses, so taking some time to get your head wrapped around some electives may be a good idea to do first.
+
+### COMP3121/3821 – (Extended) Algorithms and Programming Techniques
+
+- Term Taken: 22T1
+- Lecturer in Term Taken: Abdallah Saffidine
+- Other Lecturers: None
+- Prerequisite: COMP2521 (65+ for COMP3821)
+- Difficulty: 🟠 Hard
+
+COMP3121 and COMP3821 are very different courses from anything students would have done up to this point. These courses are all about algorithmic thinking and problem-solving, with no coding involved at all. The topics covered include divide-and-conquer, greedy algorithms, max-flow problems, dynamic programming, and reductions. However, the course content is extremely important and helps with any interview prep you may be undertaking.
+
+The weekly schedule for these courses is very different from the first-year structure. For COMP3121, there are still two 2-hour lectures each week, but there is only one 1-hour tutorial and no recurring weekly work. Instead, there are four individual assignments on the different topics, which are very time-consuming and often quite tricky.
+
+As you have probably noticed, COMP3821 is the extended version of COMP3121 and the one I took. The differences between the two are:
+
+- COMP3821 teaches the content faster with pre-recorded lectures, and the main lectures are treated as consultations.
+- The assignments in COMP3821 are harder, but worth less (10% each instead of 15% in COMP3121).
+- There are additional group assignments in COMP3821 in the off-weeks between the individual assignments (worth 5% each, all they are is creating your own assignment questions, pretty fun tbh).
+- There is a 10% participation component to COMP3821.
+
+Considering doing one of these two offerings is core for CS and an elective for SENG, I would only recommend taking extended if you are confident, and enjoy, algorithms (a good sign is if you find COMP2521 fun), and if you can convince three other people to take it with you.
