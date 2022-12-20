@@ -102,7 +102,21 @@ Considering doing one of these two offerings is core for CS and an elective for 
 - Other Lecturers: None
 - Prerequisite: COMP1511
 - Difficulty: 🟡 Medium
+- Recommendation: Highly Recommended
 
 COMP2041 is a very interesting course that feels very much like a level 1 COMP course. The content focuses on Shell scripting for the first half, and then transitions into Python and various techniques using this language. I learnt a lot of skills that generally help with my approach to COMP assignments that aren't taught anywhere else. Andrew Taylor is a great lecturer, and I highly recommend taking this course.
 
 The weekly schedule for COMP2041 follows the same lecture + TLB + Weekly Labs and Weekly Quiz as the level 1 COMP courses. The only real difference is the final exam only has programming questions in it. The assignments usually become 'easy to pass / credit, medium to Distinction, hard to HD' as is standard for Andrew Taylor courses. You could consider taking this in your first year, but it may be hard to fit around all the other level 1 core courses after COMP1511, and your MATH courses.
+
+### COMP3311 – Database Systems
+
+- Term Taken: 22T1
+- Lecturer in Term Taken: Dong Wen
+- Other Lecturers: John Shepherd
+- Prerequisite: COMP2521
+- Difficulty: 🟢 Easy
+- Recommendation: Highly Recommended
+
+COMP3311 is a unique course that functions as an introduction to databases and the relationships surrounding them. It feels quite theory-heavy, but there is a focus on programming using SQL, and later Python, during the middle stages of the term. The course is certainly a bit of a breath of fresh air; the content isn't particularly fast-paced like most other uni courses, and the assessables are a lot easier too.
+
+The weekly schedule for COMP3311 consists of two 2-hour lectures, one 90-minute tutorial, and some weeks have a short quiz consisting of four simple theory questions. The assignments are almost a joke, taking only a few hours to complete each. On the other hand, the exam is fairly tricky considering how easy the rest of the course is, but with enough preparation, this is also fine to handle.
