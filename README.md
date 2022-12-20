@@ -51,3 +51,15 @@ The weekly schedule for COMP1531 follows the same lecture + TLB + Weekly Labs as
 COMP2521 is one of the next steps after COMP1511 and is probably the most logical follow-up to the introductory course. It is taught using C, and content follows from linked lists at the end of COMP1511 with Abstract Data Types, Recursion, Trees, Graphs, Sorting and various other ADTs. Ashesh is a fine enough lecturer, but I spent most of the term watching Hayden Smith's recordings from 21T2.
 
 The weekly schedule for COMP2521 loosely follows the same lecture + TLB + Weekly Labs and Weekly Quiz as COMP1511, with changes to the assessables. The weekly labs are now longer, and mostly just one or two larger exercises. These require more thinking than the average Level 1 COMP course lab exercise. The weekly quizzes are now theory-based MCQs as opposed to the practical exercises in COMP1511. The exam is much the same, but without that scaling difficulty for the most part. Assignments are often more tedious and time-consuming though. You can't just read the spec and start coding; taking the time to plan out your program and tackle it step by step can help alleviate the difficulty the course brings. Despite the difficulty increase, I do recommend taking this course immediately after COMP1511, since it is the most logical follow-up, and also opens up so many elective options that it's hard to ignore.
+
+### COMP2511 – Object-Oriented Design & Programming
+
+- Term Taken: 22T3
+- Lecturer in Term Taken: Ashesh Mahidadia
+- Other Lecturers: None
+- Prerequisite: COMP1531, COMP2521
+- Difficulty: 🟠 Hard
+
+COMP2511 is the next big jump in difficulty after completing the first-year core courses. It is an introduction to object-oriented programming, using Java as its language of choice. The main topics are good design behaviours and some of the various design patterns that object-oriented programming follows. Once again, Ashesh is a fine enough lecturer, but there isn't anyone else that I know who lectures the course.
+
+The weekly schedule for COMP2511 loosely follows the same lecture + TLB + Weekly Labs as first-year COMP courses, with changes to the assessables. The weekly labs are now much longer, and mostly just one or two larger exercises. I often found myself spending 2 or more hours on these labs, which was very different from my first-year experience. There are no weekly quizzes, and the exam is much the same, but without that scaling difficulty for the most part. Assignments are even more tedious and time-consuming than ever, as the assignment specs are often not very detailed, requiring many assumptions to be made (using the help of the forum). While interesting, all 3 of the assignments were a large time sink, especially the second one which was a paired assignment. I would recommend taking this around term 2 or 3 of your second year because it is such a large difficulty increase compared to the first-year courses, so taking some time to get your head wrapped around some electives may be a good idea to do first.
