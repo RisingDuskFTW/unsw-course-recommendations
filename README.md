@@ -57,7 +57,7 @@ The weekly schedule for COMP2521 loosely follows the same lecture + TLB + Weekly
 - Term Taken: 22T3
 - Lecturer in Term Taken: Ashesh Mahidadia
 - Other Lecturers: None
-- Prerequisite: COMP1531, COMP2521
+- Prerequisite: COMP1531 and COMP2521
 - Difficulty: 🟠 Hard
 
 COMP2511 is the next big jump in difficulty after completing the first-year core courses. It is an introduction to object-oriented programming, using Java as its language of choice. The main topics are good design behaviours and some of the various design patterns that object-oriented programming follows. Once again, Ashesh is a fine enough lecturer, but there isn't anyone else that I know who lectures the course.
@@ -120,3 +120,65 @@ The weekly schedule for COMP2041 follows the same lecture + TLB + Weekly Labs an
 COMP3311 is a unique course that functions as an introduction to databases and the relationships surrounding them. It feels quite theory-heavy, but there is a focus on programming using SQL, and later Python, during the middle stages of the term. The course is certainly a bit of a breath of fresh air; the content isn't particularly fast-paced like most other uni courses, and the assessables are a lot easier too.
 
 The weekly schedule for COMP3311 consists of two 2-hour lectures, one 90-minute tutorial, and some weeks have a short quiz consisting of four simple theory questions. The assignments are almost a joke, taking only a few hours to complete each. On the other hand, the exam is fairly tricky considering how easy the rest of the course is, but with enough preparation, this is also fine to handle.
+
+## COMP Electives I plan to take
+
+### COMP3231/3891 – (Extended) Operating Systems
+
+- Term Taking: Sometime in 2024
+- Lecturer in Term Taken: Unknown
+- Other Lecturers: None
+- Prerequisite: COMP1521 and COMP2521 (and 75+ WAM for COMP3891)
+- Recommendation: Highly Recommended
+
+This course is often highly recommended by many students, though I haven't gotten around to taking it yet. I was initially going to take it in 23T1, but some other courses I wanted to do more moved to Term 1 so I have delayed taking this course for now.
+
+### COMP4128 – Programming Challenges
+
+- Term Taking: 23T3
+- Lecturer in Term Taken: Raveen de Silva
+- Other Lecturers: None
+- Prerequisite: (75+ WAM and COMP3121) or COMP3821
+- Recommendation: Not Recommended
+
+This is a course I've had my eye on since the end of 2021. Supposedly one of the hardest COMP courses that UNSW has to offer, I thoroughly enjoy algorithms and want to experience the peak of this field at university. Not recommended unless you enjoy algorithms as much as I do.
+
+### COMP6080 – Web Front-End Programming
+
+- Term Taking: 23T1
+- Lecturer in Term Taken: Hayden Smith
+- Other Lecturers: None
+- Prerequisite: COMP1531 and COMP2521
+- Recommendation: Highly Recommended
+
+This course has to be one of the most popular ones in the COMP library, as it almost always fills its waitlist the day most course registrations are open. While front-end programming, and JavaScript, in particular, are supposedly "easy to self-learn", I would much prefer the rigid teaching environment that university courses provide. Also, Hayden's just that good of a lecturer.
+
+### COMP6721 – (In-)Formal Methods: The Lost Art
+
+- Term Taking: 23T2
+- Lecturer in Term Taken: Unknown
+- Other Lecturers: None
+- Prerequisite: COMP2521 and MATH1081
+- Recommendation: Unknown
+
+When planning my courses for 2023, I noticed a lot of the courses I wanted to do had moved to Term 1, and I was only left with MATH options for Term 2. So I had a little look around and stumbled across this course, which seemed quite interesting, so I figured I may as well take it.
+
+### COMP6771 – Advanced C++ Programming
+
+- Term Taking: 23T1
+- Lecturer in Term Taken: Unknown
+- Other Lecturers: None
+- Prerequisite: COMP2511
+- Recommendation: Highly Recommended
+
+Having been using C for the last two years, I have been quite intrigued by its 'superior' C++, but have never gotten around to learning it in my own time. As such, I feel like I may as well learn it under University conditions, where this course is supposedly being revamped.
+
+### COMP6991 – Solving Modern Programming Problems with Rust
+
+- Term Taking: Sometime in 2024
+- Lecturer in Term Taken: Unknown
+- Other Lecturers: None
+- Prerequisite: COMP2521
+- Recommendation: Highly Recommended
+
+This course was brand new in 2022, and I have heard many good things about it from students who were taking it. I look forward to taking it some time but will have to wait and see what terms it is offered in for 2024.
