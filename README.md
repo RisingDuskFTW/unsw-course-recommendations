@@ -1,4 +1,4 @@
-# Ryan's UNSW Computer Science Review
+# My UNSW Computer Science Review
 
 I have been studying Maths and Computer Science at UNSW since 2021, and I want to share my experiences with new upcoming students so they know what they're getting into and have potentially an idea of what electives they may want to take. Note that these reviews will be biased, opinionated and subjective based on my experience with them when I took them. Courses are different for everyone; I am a more practical programmer, and so I enjoyed more practical courses rather than theory. If I mention the structure or staff having a poor experience, they may have improved by now.
 
