@@ -84,3 +84,25 @@ As you have probably noticed, COMP3821 is the extended version of COMP3121 and t
 - There is a 10% participation component to COMP3821.
 
 Considering doing one of these two offerings is core for CS and an elective for SENG, I would only recommend taking extended if you are confident, and enjoy, algorithms (a good sign is if you find COMP2521 fun), and if you can convince three other people to take it with you.
+
+### COMP3900 – Computer Science Project
+
+- Not taken yet
+
+### COMP4920 – Professional Issues and Ethics in Information Technology
+
+- Not taken yet
+
+## COMP Electives I have taken
+
+### COMP2041 – Software Construction: Techniques and Tools
+
+- Term Taken: 22T2
+- Lecturer in Term Taken: Andrew Taylor
+- Other Lecturers: None
+- Prerequisite: COMP1511
+- Difficulty: 🟡 Medium
+
+COMP2041 is a very interesting course that feels very much like a level 1 COMP course. The content focuses on Shell scripting for the first half, and then transitions into Python and various techniques using this language. I learnt a lot of skills that generally help with my approach to COMP assignments that aren't taught anywhere else. Andrew Taylor is a great lecturer, and I highly recommend taking this course.
+
+The weekly schedule for COMP2041 follows the same lecture + TLB + Weekly Labs and Weekly Quiz as the level 1 COMP courses. The only real difference is the final exam only has programming questions in it. The assignments usually become 'easy to pass / credit, medium to Distinction, hard to HD' as is standard for Andrew Taylor courses. You could consider taking this in your first year, but it may be hard to fit around all the other level 1 core courses after COMP1511, and your MATH courses.
