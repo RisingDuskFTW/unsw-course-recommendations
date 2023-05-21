@@ -70,7 +70,7 @@ The weekly schedule for COMP2511 loosely follows the same lecture + TLB + Weekly
 - Lecturer in Term Taken: Abdallah Saffidine
 - Other Lecturers: None
 - Prerequisite: COMP2521 (65+ for COMP3821)
-- Difficulty: 🟠 Hard
+- Difficulty: 🟠 Hard (🔴 Very Hard for COMP3821)
 
 COMP3121 and COMP3821 are very different courses from anything students would have done up to this point. These courses are all about algorithmic thinking and problem-solving, with no coding involved at all. The topics covered include divide-and-conquer, greedy algorithms, max-flow problems, dynamic programming, and reductions. However, the course content is extremely important and helps with any interview prep you may be undertaking.
 
@@ -82,6 +82,7 @@ As you have probably noticed, COMP3821 is the extended version of COMP3121 and t
 - The assignments in COMP3821 are harder, but worth less (10% each instead of 15% in COMP3121).
 - There are additional group assignments in COMP3821 in the off-weeks between the individual assignments (worth 5% each, all they are is creating your own assignment questions, pretty fun tbh).
 - There is a 10% participation component to COMP3821.
+- **Edit 23T1:** From what my friends have told me, COMP3121 now only has three assignemnts with three questions each, so there is now a larger gap in the workload between the two courses.
 
 Considering doing one of these two offerings is core for CS and an elective for SENG, I would only recommend taking extended if you are confident, and enjoy, algorithms (a good sign is if you find COMP2521 fun), and if you can convince three other people to take it with you.
 
@@ -115,11 +116,39 @@ The weekly schedule for COMP2041 follows the same lecture + TLB + Weekly Labs an
 - Other Lecturers: John Shepherd
 - Prerequisite: COMP2521
 - Difficulty: 🟢 Easy
-- Recommendation: Highly Recommended
+- Recommendation: Recommended
 
 COMP3311 is a unique course that functions as an introduction to databases and the relationships surrounding them. It feels quite theory-heavy, but there is a focus on programming using SQL, and later Python, during the middle stages of the term. The course is certainly a bit of a breath of fresh air; the content isn't particularly fast-paced like most other uni courses, and the assessables are a lot easier too.
 
 The weekly schedule for COMP3311 consists of two 2-hour lectures, one 90-minute tutorial, and some weeks have a short quiz consisting of four simple theory questions. The assignments are almost a joke, taking only a few hours to complete each. On the other hand, the exam is fairly tricky considering how easy the rest of the course is, but with enough preparation, this is also fine to handle.
+
+**Edit 23T1:** From what my friends have told me, the course staff do seem to be making the assingments a little more involved than previously, so the difficulty is probably more of an 🟡 Easy-Medium nowadays.
+
+### COMP6080 – Web Front-End Programming
+
+- Term Taken: 23T1
+- Lecturer in Term Taken: Hayden Smith
+- Other Lecturers: None
+- Prerequisite: COMP1531 and COMP2521
+- Difficulty: 🟠 Medium - Hard
+- Recommendation: Recommended
+
+COMP6080 has to be one of, if not, the most popular course offered for CSE students at UNSW. The waitlist usually fills up within a couple days of registrations being opened, but it is for good reason. Hayden is, as always, a fantastic lecturer, and the lecture structure this time is a lot more self-driven with the prerecorded lectures. You will learn about HTML, CSS, Vanilla Javascript and ReactJS throughout the course, teaching you various front-end skills. If you want to learn skills in front-end programming but don't feel like learning it in your own time, this is a great course to work out if you'll enjoy that area of software development.
+
+The weekly structure for COMP6080 consists of one 2-hour lecture and about 2-4 hours of prerecorded lectures, and one 60 minute tutorial. The assignments, particularly assignments 3 and 4 (which are paired) will be the main thing you spend the term doing, and take a large number of hours to do if you are aiming for HDs. The content itself isn't all that tricky, there's just so much that needs to be done for those assignments. The exam is a fast 3-hour burst where you write some simple games on a website using ReactJS, which I found quite fun.
+
+### COMP6771 – Advanced C++ Programming
+
+- Term Taking: 23T1
+- Lecturer in Term Taken: Imran Razzak
+- Other Lecturers: None
+- Prerequisite: COMP2511
+- Difficulty: 🟠 Hard
+- Recommendation: Not Recommended
+
+Having been using C for the last two years, I have been quite intrigued by its 'superior' C++, but have never gotten around to learning it in my own time. During this course, you will learn the basics and more of coding in C++, with focuses on the STL, classes, memory management, inheritance and templates. However, I do not recommend this course for a number of reasons, including the worst lecturer I have ever experienced.
+
+The weekly structure for COMP6771 consists of two 2-hour lectures, one 2-hour workshop where you can work on the many weekly lab exercises. Initially, there were eight of these a week, which would mean spending up to 6 hours a week just on these exercises worth 1% of your final grade each week. This was reduced to four per week after flexi-week, but the sour taste was already left behind. The assignments were initially the best part of the course, and the first two of them were actually pretty fun to do. However, they are quite a bit of work, and problems with the third one made it not nearly as enjoyable for me. Also, any communication on the course forum was either abrupt or non-helpful, so overall do not recommend taking this course *unless* you really need the uni structure to learn C++.
 
 ## COMP Electives I plan to take
 
@@ -143,16 +172,6 @@ This course is often highly recommended by many students, though I haven't gotte
 
 This is a course I've had my eye on since the end of 2021. Supposedly one of the hardest COMP courses that UNSW has to offer, I thoroughly enjoy algorithms and want to experience the peak of this field at university. Not recommended unless you enjoy algorithms as much as I do.
 
-### COMP6080 – Web Front-End Programming
-
-- Term Taking: 23T1
-- Lecturer in Term Taken: Hayden Smith
-- Other Lecturers: None
-- Prerequisite: COMP1531 and COMP2521
-- Recommendation: Highly Recommended
-
-This course has to be one of the most popular ones in the COMP library, as it almost always fills its waitlist the day most course registrations are open. While front-end programming, and JavaScript, in particular, are supposedly "easy to self-learn", I would much prefer the rigid teaching environment that university courses provide. Also, Hayden's just that good of a lecturer.
-
 ### COMP6721 – (In-)Formal Methods: The Lost Art
 
 - Term Taking: 23T2
@@ -162,16 +181,6 @@ This course has to be one of the most popular ones in the COMP library, as it al
 - Recommendation: Unknown
 
 When planning my courses for 2023, I noticed a lot of the courses I wanted to do had moved to Term 1, and I was only left with MATH options for Term 2. So I had a little look around and stumbled across this course, which seemed quite interesting, so I figured I may as well take it.
-
-### COMP6771 – Advanced C++ Programming
-
-- Term Taking: 23T1
-- Lecturer in Term Taken: Unknown
-- Other Lecturers: None
-- Prerequisite: COMP2511
-- Recommendation: Highly Recommended
-
-Having been using C for the last two years, I have been quite intrigued by its 'superior' C++, but have never gotten around to learning it in my own time. As such, I feel like I may as well learn it under University conditions, where this course is supposedly being revamped.
 
 ### COMP6991 – Solving Modern Programming Problems with Rust
 
