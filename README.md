@@ -137,6 +137,19 @@ COMP6080 has to be one of, if not, the most popular course offered for CSE stude
 
 The weekly structure for COMP6080 consists of one 2-hour lecture and about 2-4 hours of prerecorded lectures, and one 60 minute tutorial. The assignments, particularly assignments 3 and 4 (which are paired) will be the main thing you spend the term doing, and take a large number of hours to do if you are aiming for HDs. The content itself isn't all that tricky, there's just so much that needs to be done for those assignments. The exam is a fast 3-hour burst where you write some simple games on a website using ReactJS, which I found quite fun.
 
+### COMP6721 – (In-)Formal Methods: The Lost Art
+
+- Term Taking: 23T2
+- Lecturer in Term Taken: Carrol Morgan
+- Other Lecturers: None
+- Prerequisite: COMP2521 and MATH1081
+- Difficulty: 🟡 Medium
+- Recommendation: Recommended
+
+COMP6721 is a unique course that doesn't teach you anything you don't already know, rather, it teaches you a different way of thinking about solving coding problems. A large focus is on invariants and using "What's True Here" comments to informally verify that the programs you write are correct. This new way of thinking is quite possibly very different to the usual sit-and-immediately-code process many uni students take, and I found it very interesting to learn and apply outside of the course.
+
+The weekly structure for COMP6721 consisted of one 2-hour and one 1-hour lecture, with one 1-hour tutorial filling the last lecture hour. The tutorial encouraged group collaboration on a handful of sample problems to get you thinking in the ways the course encourages. Assessables included a small participation mark, a weekly quiz where you had two attempts, and a weekly assignment chunk. Each week, the assignment would build from the last, but rather than coding anything, you would answer a few questions in a quiz style format to a similar level of learning. There was no exam when I took the course.
+
 ### COMP6771 – Advanced C++ Programming
 
 - Term Taking: 23T1
@@ -171,16 +184,6 @@ This course is often highly recommended by many students, though I haven't gotte
 - Recommendation: Not Recommended
 
 This is a course I've had my eye on since the end of 2021. Supposedly one of the hardest COMP courses that UNSW has to offer, I thoroughly enjoy algorithms and want to experience the peak of this field at university. Not recommended unless you enjoy algorithms as much as I do.
-
-### COMP6721 – (In-)Formal Methods: The Lost Art
-
-- Term Taking: 23T2
-- Lecturer in Term Taken: Unknown
-- Other Lecturers: None
-- Prerequisite: COMP2521 and MATH1081
-- Recommendation: Unknown
-
-When planning my courses for 2023, I noticed a lot of the courses I wanted to do had moved to Term 1, and I was only left with MATH options for Term 2. So I had a little look around and stumbled across this course, which seemed quite interesting, so I figured I may as well take it.
 
 ### COMP6991 – Solving Modern Programming Problems with Rust
 
