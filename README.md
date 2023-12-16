@@ -1,6 +1,6 @@
 # My UNSW Computer Science Review
 
-I have been studying Maths and Computer Science at UNSW since 2021, and I want to share my experiences with new upcoming students so they know what they're getting into and have potentially an idea of what electives they may want to take. Note that these reviews will be biased, opinionated and subjective based on my experience with them when I took them. Courses are different for everyone; I am a more practical programmer, and so I enjoyed more practical courses rather than theory. If I mention the structure or staff having a poor experience, they may have improved by now.
+I have been studying Maths and Computer Science at UNSW since 2021, and I want to share my experiences with new upcoming students so they know what they're getting into and have potentially an idea of what electives they may want to take. Note that these reviews will be biased, opinionated and subjective based on my experience with them when I took them. Courses are different for everyone; I am a more practical programmer, and so I enjoyed more practical courses rather than theory. If I mention the structure or staff having a poor experience, they may have improved by the time you will be taking the course.
 
 ## Core Courses
 
@@ -8,7 +8,7 @@ I have been studying Maths and Computer Science at UNSW since 2021, and I want t
 
 - Term Taken: 21T1
 - Lecturer in Term Taken: Marc Chee
-- Other Lecturers: Sasha Vassar
+- Other Lecturers: Sasha Vassar, Jake Renzella
 - Prerequisite: None
 - Difficulty: 🟢 Easy
 
@@ -32,11 +32,11 @@ The weekly schedule for COMP1521 follows the same lecture + TLB + Weekly Labs an
 
 - Term Taken: 21T3
 - Lecturer in Term Taken: Hayden Smith
-- Other Lecturers: Jake Renzella
+- Other Lecturers: Jake Renzella, Yuchao Jiang
 - Prerequisite: COMP1511
 - Difficulty: 🟡 Easy - Hard
 
-COMP1521 is one of the next steps after COMP1511 and is an introduction to group projects and the software development life cycle. Becoming acclimated to group work is incredibly important for work after uni, so be prepared to put in a decent bit more time here than in COMP1511. When I took it, the coding language was Python, but it has since moved to JavaScript. Hayden is a fantastic lecturer though, so you will be in safe hands.
+COMP1531 is one of the next steps after COMP1511 and is an introduction to group projects and the software development life cycle. Becoming acclimated to group work is incredibly important for work after uni, so be prepared to put in a decent bit more time here than in COMP1511. When I took it, the coding language was Python, but it has since moved to JavaScript. Hayden is a fantastic lecturer though, so you will be in safe hands.
 
 The weekly schedule for COMP1531 follows the same lecture + TLB + Weekly Labs as COMP1511, minus the weekly tests. The exam is much the same, but without that scaling difficulty for the most part. However, in place of the two assignments, there is a group project for 4-5 students across the whole term. As of 22T3, you are only allowed to preference one person from your TLB class, so there is going to be variance in who your random teammates are. If they happen to be like-minded in their goals? Cool! The term will be a bit easier. But if they don't contribute as much as they should, the project can easily become a huge time sink for you. Keep that in mind with choosing your tutorial time. (A proven strategy has been to occupy over half of the tutorial with friends so you're more likely to get people you can work with.)
 
@@ -48,9 +48,9 @@ The weekly schedule for COMP1531 follows the same lecture + TLB + Weekly Labs as
 - Prerequisite: COMP1511
 - Difficulty: 🟠 Medium - Hard
 
-COMP2521 is one of the next steps after COMP1511 and is probably the most logical follow-up to the introductory course. It is taught using C, and content follows from linked lists at the end of COMP1511 with Abstract Data Types, Recursion, Trees, Graphs, Sorting and various other ADTs. Ashesh is a fine enough lecturer, but I spent most of the term watching Hayden Smith's recordings from 21T2.
+COMP2521 is one of the next steps after COMP1511 and is probably the most logical follow-up to the introductory course. It is taught using C, and content follows from linked lists at the end of COMP1511 with Abstract Data Types, Recursion, Trees, Graphs, Sorting and various other ADTs. Ashesh is a fine enough lecturer, but I spent most of the term watching Hayden Smith's recordings from 21T2. That being said, these recordings are now over two years old, and I generally recommend watching either your term's lectures or potentially Kevin Luxa's from 23T3.
 
-The weekly schedule for COMP2521 loosely follows the same lecture + TLB + Weekly Labs and Weekly Quiz as COMP1511, with changes to the assessables. The weekly labs are now longer, and mostly just one or two larger exercises. These require more thinking than the average Level 1 COMP course lab exercise. The weekly quizzes are now theory-based MCQs as opposed to the practical exercises in COMP1511. The exam is much the same, but without that scaling difficulty for the most part. Assignments are often more tedious and time-consuming though. You can't just read the spec and start coding; taking the time to plan out your program and tackle it step by step can help alleviate the difficulty the course brings. Despite the difficulty increase, I do recommend taking this course immediately after COMP1511, since it is the most logical follow-up, and also opens up so many elective options that it's hard to ignore.
+The weekly schedule for COMP2521 loosely follows the same lecture + TLB + Weekly Labs and Weekly Quiz as COMP1511, with changes to the assessables. The weekly labs are now longer, and mostly just one or two larger exercises. These require more thinking than the average Level 1 COMP course lab exercise. The weekly quizzes are now theory-based MCQs as opposed to the practical exercises in COMP1511. The exam is much the same, but without that scaling difficulty for the most part. Assignments are often more tedious and time-consuming though. You can't just read the spec and start coding; taking the time to plan out your program and tackle it step by step can help alleviate the difficulty the course brings. Despite the difficulty increase, I do recommend taking this course  either immediately after COMP1511 if you are a comfortable coder, or a term later if you want to build your confidence a bit, since it opens up so many elective options that it's hard to ignore.
 
 ### COMP2511 – Object-Oriented Design & Programming
 
@@ -69,7 +69,7 @@ The weekly schedule for COMP2511 loosely follows the same lecture + TLB + Weekly
 - Term Taken: 22T1
 - Lecturer in Term Taken: Abdallah Saffidine
 - Other Lecturers: None
-- Prerequisite: COMP2521 (65+ for COMP3821)
+- Prerequisite: COMP2521 (65+ for COMP3821) and MATH1081
 - Difficulty: 🟠 Hard (🔴 Very Hard for COMP3821)
 
 COMP3121 and COMP3821 are very different courses from anything students would have done up to this point. These courses are all about algorithmic thinking and problem-solving, with no coding involved at all. The topics covered include divide-and-conquer, greedy algorithms, max-flow problems, dynamic programming, and reductions. However, the course content is extremely important and helps with any interview prep you may be undertaking.
@@ -85,6 +85,8 @@ As you have probably noticed, COMP3821 is the extended version of COMP3121 and t
 - **Edit 23T1:** From what my friends have told me, COMP3121 now only has three assignemnts with three questions each, so there is now a larger gap in the workload between the two courses.
 
 Considering doing one of these two offerings is core for CS and an elective for SENG, I would only recommend taking extended if you are confident, and enjoy, algorithms (a good sign is if you find COMP2521 fun), and if you can convince three other people to take it with you.
+
+**Edit 24T1:** Both COMP3121 and COMP3821 have undergone significant changes to the assessment structure, so a lot of what is said above is not up to date. There is still a separation in the expectations and workload though so much of waht I say for choosing between the two remains the same.
 
 ### COMP3900 – Computer Science Project
 
@@ -123,6 +125,21 @@ COMP3311 is a unique course that functions as an introduction to databases and t
 The weekly schedule for COMP3311 consists of two 2-hour lectures, one 90-minute tutorial, and some weeks have a short quiz consisting of four simple theory questions. The assignments are almost a joke, taking only a few hours to complete each. On the other hand, the exam is fairly tricky considering how easy the rest of the course is, but with enough preparation, this is also fine to handle.
 
 **Edit 23T1:** From what my friends have told me, the course staff do seem to be making the assingments a little more involved than previously, so the difficulty is probably more of an 🟡 Easy-Medium nowadays.
+
+### COMP4128 – Programming Challenges
+
+- Term Taking: 23T3
+- Lecturer in Term Taken: Raveen de Silva
+- Other Lecturers: None
+- Prerequisite: (75+ WAM and COMP3121) or COMP3821
+- Difficulty: 🔴 Very Hard
+- Recommendation: Not Recommended
+
+COMP4128 is up there as one of the hardest course that the school of CSE has to offer. That being said, if you are up for the challenge, this will be one of the most enjoyable courses you can do! The content is esssentially Competitive Programming: the course. You learn about many techniques to solve interesting problems in speedy time complexities, some of which are taught in COMP3121/3821 but you now have to code up the algorithms.
+
+The weekly schedule consists of two 2-hour lectures, and the TLB structure reminiscent of the core courses. There are 'weekly labs' in the Problem Sets that are released most weeks, but these usually don't have a deadline. Still, I recommend working on them consistently so you don't become too bogged down around other assessments and towards the final exam. There are three contests, which are a small time frame (usually 3 hours) to solve a set number of problems. These usually aren't worth a lot, but give you  taste at what competitive programming is like. The final exam is essentially one big long contest with more problems.
+
+I don't recommend taking this course to the average student, but if you feel like you are a strong programmer, enjoy algorithms and are up for a challenging course, I encourage you to give it a go!
 
 ### COMP6080 – Web Front-End Programming
 
@@ -163,6 +180,8 @@ Having been using C for the last two years, I have been quite intrigued by its '
 
 The weekly structure for COMP6771 consists of two 2-hour lectures, one 2-hour workshop where you can work on the many weekly lab exercises. Initially, there were eight of these a week, which would mean spending up to 6 hours a week just on these exercises worth 1% of your final grade each week. This was reduced to four per week after flexi-week, but the sour taste was already left behind. The assignments were initially the best part of the course, and the first two of them were actually pretty fun to do. However, they are quite a bit of work, and problems with the third one made it not nearly as enjoyable for me. Also, any communication on the course forum was either abrupt or non-helpful, so overall do not recommend taking this course *unless* you really need the uni structure to learn C++.
 
+**Edit 24T1:** It seems like Hayden Smith may be taking this course in 24T2. If this is indeed the case (which seems quite likely at this point), this course jumps up to recommended, especially if you would like to learn modern C++ syntax and features.
+
 ## COMP Electives I plan to take
 
 ### COMP3231/3891 – (Extended) Operating Systems
@@ -174,16 +193,6 @@ The weekly structure for COMP6771 consists of two 2-hour lectures, one 2-hour wo
 - Recommendation: Highly Recommended
 
 This course is often highly recommended by many students, though I haven't gotten around to taking it yet. I was initially going to take it in 23T1, but some other courses I wanted to do more moved to Term 1 so I have delayed taking this course for now.
-
-### COMP4128 – Programming Challenges
-
-- Term Taking: 23T3
-- Lecturer in Term Taken: Raveen de Silva
-- Other Lecturers: None
-- Prerequisite: (75+ WAM and COMP3121) or COMP3821
-- Recommendation: Not Recommended
-
-This is a course I've had my eye on since the end of 2021. Supposedly one of the hardest COMP courses that UNSW has to offer, I thoroughly enjoy algorithms and want to experience the peak of this field at university. Not recommended unless you enjoy algorithms as much as I do.
 
 ### COMP6991 – Solving Modern Programming Problems with Rust
 
